@@ -6,9 +6,9 @@ For more information see the tutorial [How to Publish an Open-Source Python Pack
 
 ## Installation
 
-You can install the Real Python Feed Reader from [PyPI](https://pypi.org/project/realpython-reader/):
+You can install the Real Python Feed Reader from [PyPI](https://pypi.org/project/test-kachontep-reader/):
 
-    pip install realpython-reader
+    pip install test-kachontep-reader
 
 The reader is supported on Python 2.7, as well as Python 3.4 and above.
 

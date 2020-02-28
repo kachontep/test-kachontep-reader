@@ -17,7 +17,7 @@ setup(
     description="Read the latest Real Python tutorials",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/realpython/reader",
+    url="https://github.com/kachontep/test-kachontep-reader",
     author="Kajornthep Piyanun",
     author_email="kachontep@gmail.com",
     license="MIT",
